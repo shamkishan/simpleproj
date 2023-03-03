@@ -13,6 +13,7 @@ public class One {
             System.out.println("Enter 3 for multiplication");
             System.out.println("Enter 4 for division");
             System.out.println("Enter 5 for Module");
+            System.out.println("Enter any key to quit");
 
             option = s.nextInt();
             switch(option)
